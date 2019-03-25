@@ -31,7 +31,7 @@ At this point, you've likely generated a client setup.  It will include somethin
 
 You _will_ need to make changes in at least the following:
 
-`SwiftlwGenerator.java`
+`SwiftLWGenerator.java`
 
 Templates in this folder:
 
